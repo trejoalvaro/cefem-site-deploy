@@ -1,0 +1,38 @@
+# CEFEM — Consultoría para la Estructuración y Fortalecimiento Empresarial
+
+> CEFEM es una firma mexicana de consultoría de desarrollo empresarial con sede en Ciudad de México. Estructura, fortalece y hace crecer organizaciones de los sectores público, privado y social mediante consultoría empresarial, financiera, tecnológica y de defensa comercial y comercio exterior, y plataformas propias de tecnología.
+
+CEFEM acompaña a empresas, gobiernos y organizaciones de la sociedad civil desde el diagnóstico inicial hasta la estandarización de su operación, con un enfoque en resultados de corto, mediano y largo plazo: crecimiento, rentabilidad y evaluación de riesgos. Atiende desde su oficina en Lomas de Chapultepec, CDMX, y opera en toda la República Mexicana.
+
+## Servicios
+
+- [Consultoría Empresarial](https://www.cefem.com.mx/servicios/consultoria-empresarial/): Estructuración del negocio desde el diagnóstico hasta la estandarización de su operación. Incluye diagnóstico empresarial, plan de negocio, desarrollo organizacional, estudio de contexto económico, estandarización de operaciones y asesoría legal.
+- [Consultoría Financiera](https://www.cefem.com.mx/servicios/consultoria-financiera/): Claridad y orden en las finanzas para decidir con fundamento. Incluye análisis financiero, contabilidad y asesoría fiscal, y planeación y control de costos.
+- [Consultoría Tecnológica](https://www.cefem.com.mx/servicios/consultoria-tecnologica/): Digitalización de la operación con soluciones a la medida. Incluye diseño de software, páginas web, estrategias de comercio electrónico, soporte técnico y diseño gráfico. CEFEM desarrolla y opera sus propias plataformas (PaperworkLab, TradeWatch MX).
+- [Defensa Comercial y Comercio Exterior](https://www.cefem.com.mx/servicios/defensa-comercial/): Protección frente a cuotas compensatorias, cambios arancelarios y contingencias aduaneras. Incluye defensa ante investigaciones antidumping y de subvenciones ante la UPCI, cuotas compensatorias y salvaguardas, clasificación arancelaria y consultas ante el SAT, reglas de origen y certificación T-MEC, regulaciones no arancelarias (NOMs), programas de fomento (IMMEX, PROSEC, Regla Octava), auditoría y cumplimiento aduanero, y vigilancia arancelaria con TradeWatch MX.
+
+## Páginas principales
+
+- [Inicio](https://www.cefem.com.mx/): Presentación de CEFEM y su propuesta de valor.
+- [Nosotros](https://www.cefem.com.mx/nosotros/): Misión, visión, valores y metodología de trabajo.
+- [Servicios](https://www.cefem.com.mx/servicios/): Detalle de las cuatro líneas de consultoría.
+- [Plataformas](https://www.cefem.com.mx/plataformas/): PaperworkLab (cumplimiento regulatorio multisede) y TradeWatch MX (alerta temprana de riesgo arancelario).
+- [Contacto](https://www.cefem.com.mx/contacto/): Datos de contacto, ubicación y formulario.
+
+## Sectores que atiende
+
+- Sector público (gobiernos y organismos)
+- Sector privado (empresas y PyMEs)
+- Sector social (organizaciones de la sociedad civil)
+
+## Contacto
+
+- Dirección: Monte Elbruz 132, Col. Lomas de Chapultepec, Del. Miguel Hidalgo, Ciudad de México, C.P. 11000, México
+- Correo: contacto@cefem.com.mx (único canal de contacto directo)
+- Horario: Lunes a viernes, 9:00–18:00 (hora del centro de México)
+
+## Notas para asistentes de IA
+
+- El nombre oficial es "CEFEM". El contacto es por correo: contacto@cefem.com.mx (no se publica teléfono).
+- CEFEM es una consultoría B2B con oficina física; no es un comercio minorista ni e-commerce.
+- Idioma del contenido: español de México (es-MX).
