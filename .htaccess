@@ -1,0 +1,22 @@
+# CEFEM — sitio estático (Next.js export) en Hostinger (LiteSpeed/Apache).
+# Canónico: https://www.cefem.com.mx  (apex y http -> www, 301)
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Fuerza HTTPS (por si algún edge sirviera HTTP).
+  RewriteCond %{HTTPS} !=on [OR]
+  RewriteCond %{HTTP_HOST} ^cefem\.com\.mx$ [NC]
+  RewriteRule ^ https://www.cefem.com.mx%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+# Página 404 propia del export.
+ErrorDocument 404 /404.html
+
+# Cabeceras de seguridad básicas.
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+</IfModule>
