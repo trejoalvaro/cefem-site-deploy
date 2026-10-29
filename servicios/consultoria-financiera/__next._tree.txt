@@ -1,0 +1,8 @@
+:HL["/_next/static/media/3dc379dc9b5dec12-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/5a47ce4f6d2affe1.css","style"]
+:HL["/images/logo-iso-white.png","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"consultoria-financiera","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"servicios","h":64,"c":"$Q2"}]]
+0:{"b":"lcC3gGFRUod678lKTNrp_","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

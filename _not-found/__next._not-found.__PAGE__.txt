@@ -1,0 +1,28 @@
+2:"$Sreact.fragment"
+3:I[7121,[],""]
+4:I[4581,[],""]
+9:"static/chunks/500-fc3b64d9ff4a32a7.js"
+a:"static/chunks/app/page-e213406dd0bbd8c2.js"
+b:I[8500,["500","$9","974","$a"],""]
+c:I[484,[],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[484,[],"$10"]
+12:"MetadataBoundary"
+13:I[484,[],"$12"]
+14:I[6869,[],"IconMark"]
+:HL["/images/logo-iso-white.png","image"]
+6:X
+6:C
+7:X
+8:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"page-hero","children":[["$","img",null,{"className":"page-hero__iso","src":"/images/logo-iso-white.png","alt":"","width":200,"height":200}],["$","div",null,{"className":"container","children":[["$","span",null,{"className":"eyebrow","children":"Error 404"}],["$","h1",null,{"children":"Esta página no existe"}],["$","p",null,{"children":"La dirección que buscas cambió o nunca estuvo aquí. Te dejamos por dónde seguir."}]]}]]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"cards","children":[["$","article",null,{"className":"card","children":[["$","h3",null,{"children":"Nuestros servicios"}],["$","p",null,{"children":"Consultoría empresarial, financiera, tecnológica y de defensa comercial y comercio exterior."}],["$","$Lb",null,{"className":"card__link","href":"/servicios/","children":"Ver servicios →"}]]}],["$","article",null,{"className":"card","children":[["$","h3",null,{"children":"Plataformas"}],["$","p",null,{"children":"PaperworkLab y TradeWatch MX: la tecnología que desarrollamos y operamos."}],["$","$Lb",null,{"className":"card__link","href":"/plataformas/","children":"Ver plataformas →"}]]}],["$","article",null,{"className":"card","children":[["$","h3",null,{"children":"Contacto"}],["$","p",null,{"children":"Agenda una consultoría inicial sin costo y cuéntanos tu caso."}],["$","$Lb",null,{"className":"card__link","href":"/contacto/","children":"Contactar →"}]]}]]}]}]}]],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$7"}}]]
+1:[["children",{"s":"_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0c1848"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Página no encontrada | CEFEM"}],["$","meta","1",{"name":"description","content":"La página que buscas no existe o cambió de dirección."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","3",{"name":"robots","content":"noindex"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","5",{"rel":"icon","href":"/favicon-32x32.png","type":"image/png"}],["$","link","6",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L14","7",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$7"}},"a":"$@16","u":"$@17","b":"lcC3gGFRUod678lKTNrp_"}
+e:null
+17:true
+7:300
+7:C
+16:0
+5:"$undefined"
+15:"$undefined"
+f:"$undefined"
