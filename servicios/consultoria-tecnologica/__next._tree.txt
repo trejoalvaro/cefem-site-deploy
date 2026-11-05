@@ -1,8 +1,8 @@
 :HL["/_next/static/media/3dc379dc9b5dec12-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/b3035a9acad60d0e.css","style"]
+:HL["/_next/static/css/b969582a1fd6cb85.css","style"]
 :HL["/images/logo-iso-white.png","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"consultoria-tecnologica","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"servicios","h":64,"c":"$Q2"}]]
-0:{"b":"UK0R6oJIXsZRP0VVp3zhI","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"mhmQsZGCwvPPK2qSowHnk","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
